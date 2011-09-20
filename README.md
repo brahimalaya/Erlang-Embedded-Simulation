@@ -1,4 +1,4 @@
-# Embedded-Erlang-Simulation
+# Erlang-Embedded-Simulation
 A library, simulators and demo applications for simulating hardware on erlang
 
 ## Introduction
@@ -98,8 +98,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-[1]: https://github.com/EmbeddedErlang/Embedded-Erlang-Simulation/issues "Erlang-Embedded-Simulation issues"
+[1]: https://github.com/devR2/Erlang-Embedded-Simulation/issues "Erlang-Embedded-Simulation issues"
 
-[2]: http://embedded-erlang.org/ "Erlang-Embedded webpage"
+[2]: http://www.erlang-embedded.com/ "Erlang-Embedded webpage"
 
 [3]: http://beagleboard.org/
